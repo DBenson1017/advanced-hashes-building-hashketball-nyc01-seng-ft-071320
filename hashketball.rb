@@ -105,7 +105,7 @@ away: {
       blocks:   ,
       slam_dunks: },
       
-       {player_name: ,
+       {player_name: 'Kemba Walker' ,
       number:   ,
       shoe:   ,
       points:    ,
