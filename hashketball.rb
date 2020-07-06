@@ -33,9 +33,9 @@ def game_hash
       points:   17 ,
       rebounds:  19  ,
       assists:  10   ,
-      steals:    ,
-      blocks:   ,
-      slam_dunks: },
+      steals:   3  ,
+      blocks: 1   ,
+      slam_dunks:15 },
       
      {player_name: 'Mason Plumlee',
       number:   ,
