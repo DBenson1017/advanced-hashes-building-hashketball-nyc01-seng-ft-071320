@@ -109,9 +109,9 @@ away: {
       number:  33 ,
       shoe: 15  ,
       points: 6    ,
-      rebounds:    ,
-      assists:    ,
-      steals:    ,
+      rebounds: 12   ,
+      assists:12    ,
+      steals:   7  ,
       blocks:   ,
       slam_dunks: },
       ]
