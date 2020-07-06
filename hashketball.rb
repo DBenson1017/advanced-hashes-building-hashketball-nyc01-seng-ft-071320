@@ -106,9 +106,9 @@ away: {
       slam_dunks: 0},
       
        {player_name: 'Kemba Walker' ,
-      number:   ,
-      shoe:   ,
-      points:    ,
+      number:  33 ,
+      shoe: 15  ,
+      points: 6    ,
       rebounds:    ,
       assists:    ,
       steals:    ,
