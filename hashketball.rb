@@ -112,8 +112,8 @@ away: {
       rebounds: 12   ,
       assists:12    ,
       steals:   7  ,
-      blocks:   ,
-      slam_dunks: },
+      blocks: 5  ,
+      slam_dunks: 12 },
       ]
     }
 }
